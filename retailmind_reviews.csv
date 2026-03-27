@@ -1,0 +1,61 @@
+review_id,product_id,reviewer_name,rating,review_title,review_text,verified_purchase,helpful_votes,review_date
+R001,SC001,Ananya Rao,5,Perfect everyday tee,Super soft cotton and fits perfectly. Bought three colors already.,True,24,2024-02-10
+R002,SC001,Rahul Kapoor,4,Great value,Good quality for the price. Slightly long in the torso but manageable.,True,12,2024-02-15
+R003,SC001,Meera Joshi,5,My go-to basic,Washes well and hasn't faded after 10 washes. Will buy more.,True,18,2024-03-01
+R004,SC002,Priya Patel,4,Beautiful but delicate,Gorgeous silk blend fabric. Needs careful washing. Color is stunning.,True,15,2024-04-05
+R005,SC002,Sneha Reddy,3,Runs small,Had to size up. The material is nice but sizing is inconsistent.,True,22,2024-04-10
+R006,SC003,Arjun Singh,5,Best hoodie ever,Incredibly comfortable and the graphic print is fire. Love the oversized fit.,True,31,2024-03-15
+R007,SC003,Kavita Nair,5,Obsessed with this,My daughter loves it. Great quality print that doesn't crack.,True,19,2024-03-20
+R008,SC003,Dev Malhotra,4,Great but pricey,Amazing quality but wish it was a bit cheaper. The fabric is premium though.,True,8,2024-04-01
+R009,SC004,Neha Gupta,4,Perfect for summer,Breathable linen that looks smart casual. Wrinkles easily though.,True,14,2024-05-10
+R010,SC004,Vikram Desai,5,Linen done right,Best linen shirt I've owned. Soft from the first wear.,True,20,2024-05-15
+R011,SC005,Ishita Sharma,5,Love the fit,Hugs the body perfectly. Great for layering underneath jackets.,True,16,2024-02-05
+R012,SC005,Rohan Mehta,4,Solid basic,Good ribbed tank. Comfortable and breathable for workouts.,True,9,2024-02-10
+R013,SC006,Aditi Kulkarni,4,Beautiful but fragile,Stunning floral print. The zipper feels cheap though. Wore it to a wedding and got compliments.,True,27,2024-04-20
+R014,SC006,Tanvi Shah,3,Disappointed with quality,The stitching started coming apart after two wears. Print is lovely but quality control is lacking.,True,35,2024-04-25
+R015,SC007,Pooja Iyer,3,Mixed feelings,Looks great in photos but the fabric feels cheap. Runs very tight around hips.,True,28,2024-03-28
+R016,SC007,Riya Agarwal,4,Sexy but uncomfortable,Turns heads for sure. Hard to sit in though. More of a standing-only dress.,True,19,2024-04-02
+R017,SC007,Simran Kaur,2,Not worth the hype,Terrible quality for the price. Seams ripped on first wear. Very disappointed.,True,42,2024-04-08
+R018,SC008,Deepa Menon,5,Stunning wrap dress,The drape is absolutely gorgeous. Feel like a million bucks wearing this.,True,21,2024-05-05
+R019,SC008,Lakshmi Prasad,4,Almost perfect,Beautiful dress but the belt loop broke. Customer service replaced it quickly.,True,13,2024-05-12
+R020,SC009,Nisha Choudhary,4,Casual chic,Great denim shirt dress. Versatile - dress up with heels or down with sneakers.,True,11,2024-02-25
+R021,SC010,Fatima Khan,5,Show stopper,Wore this to a gala and felt amazing. The sequins are securely attached.,True,25,2024-06-01
+R022,SC010,Zara Ahmed,4,Glamorous,Beautiful dress. Slightly heavy but the sparkle is worth it.,True,17,2024-06-10
+R023,SC011,Aditya Verma,5,Best chinos ever,Perfect fit and so comfortable. The stretch fabric is a game changer.,True,23,2024-02-15
+R024,SC011,Karthik Rajan,4,Smart casual staple,Great for office and weekends. Color hasn't faded after multiple washes.,True,14,2024-02-20
+R025,SC012,Divya Nayak,5,Perfect high-waist jeans,Finally jeans that don't gap at the waist! Amazing fit and quality.,True,38,2024-03-10
+R026,SC012,Preeti Saxena,5,Worth every rupee,These jeans are incredible. The high waist is flattering and comfortable.,True,29,2024-03-15
+R027,SC012,Manasi Rao,4,Almost perfect,Great jeans but took a while to break in. Once softened they're ideal.,True,16,2024-03-20
+R028,SC013,Ankita Bose,4,Elegant wide-legs,Beautiful drape and very comfortable. Looks expensive. Runs a bit long.,True,12,2024-05-01
+R029,SC014,Suresh Kumar,5,Best joggers,Super comfortable cargo joggers. Pockets are actually useful!,True,26,2024-04-10
+R030,SC014,Amit Tiwari,5,Daily staple,I live in these. Comfortable stretchy and look good enough for casual outings.,True,21,2024-04-15
+R031,SC014,Rajesh Bansal,4,Great but sizing,Love the style and comfort. Had to size down - they run large.,True,10,2024-04-20
+R032,SC015,Nandini Roy,3,Looks good feels meh,They look like real leather but the waistband rolls down constantly. Annoying.,True,33,2024-03-05
+R033,SC015,Sonal Jain,2,Disappointing,Started peeling after just 3 wears. Not worth the price at all.,True,45,2024-03-10
+R034,SC015,Pallavi Gokhale,4,Decent for the price,They look great with boots. Mine haven't peeled yet. Maybe quality varies.,True,8,2024-03-15
+R035,SC016,Siddharth Rao,5,Investment piece,Worth every penny. Keeps me warm and looks incredibly sophisticated.,True,18,2024-10-15
+R036,SC016,Gautam Chandra,5,Premium quality,The wool blend is luxurious. One of the best coats I've owned.,True,22,2024-10-20
+R037,SC017,Varun Sharma,5,Perfect puffer,Lightweight but incredibly warm. Great for Delhi winters.,True,30,2024-09-25
+R038,SC017,Harshita Yadav,4,Good but bulky,Very warm and well-made. Packs down well for travel. A bit puffy looking.,True,14,2024-10-01
+R039,SC018,Rekha Sundaram,4,Classic style,Timeless trench coat. Well-made and elegant. The belt is a nice touch.,True,16,2024-10-05
+R040,SC019,Nikhil Joshi,5,Vintage perfection,The distressing is perfect - not overdone. Fits like a dream.,True,27,2024-04-15
+R041,SC019,Alok Pandey,5,My favorite jacket,Goes with everything. Quality is outstanding for the price.,True,21,2024-04-20
+R042,SC020,Shreya Bhat,4,Great for monsoon,Lightweight and genuinely waterproof. Perfect for Mumbai rains.,True,15,2024-05-20
+R043,SC021,Megha Tripathi,5,Perfect everyday bag,Just the right size for essentials. Leather quality is impressive.,True,24,2024-03-01
+R044,SC021,Rashmi Pillai,4,Love the design,Stylish and functional. The strap is comfortable for all-day wear.,True,13,2024-03-10
+R045,SC022,Padma Iyengar,4,Beautiful scarves,Gorgeous prints on real silk. Makes any outfit look put together.,True,11,2024-03-25
+R046,SC023,Sandeep Malhotra,5,Elegant timepiece,Minimal design but maximum impact. Gets compliments everywhere.,True,32,2024-06-15
+R047,SC023,Tarun Kohli,5,Worth the splurge,Beautiful watch. The strap quality and face design are outstanding.,True,26,2024-06-20
+R048,SC024,Bhavna Dutta,4,Great value set,Cute earrings at a great price. The gold ones look surprisingly expensive.,True,17,2024-02-28
+R049,SC025,Sakshi Mittal,5,Perfect tote,Sturdy canvas great size and love the minimalist design.,True,19,2024-04-25
+R050,SC025,Jaya Krishnan,4,Good daily bag,Holds everything I need. Wish it had a zip pocket inside.,True,11,2024-05-01
+R051,SC026,Arushi Sinha,4,Warm and stylish,Soft cashmere and fits well. Great for winter mornings.,True,9,2024-09-10
+R052,SC027,Tanya Ghosh,4,Unique piece,Beautiful embroidery work. Looks great over jeans or a dress.,True,14,2024-06-20
+R053,SC028,Vikrant Patil,5,Best workout shorts,Lightweight breathable and the pockets actually fit a phone. Bought 3 pairs.,True,28,2024-04-30
+R054,SC028,Nirmal Shetty,5,Perfect for running,Great athletic shorts. No chafing and they dry fast.,True,22,2024-05-05
+R055,SC029,Swati Hegde,4,Statement piece,The faux fur looks surprisingly real. Great for a night out.,True,13,2024-10-25
+R056,SC029,Komal Ahuja,3,Shedding issue,Looks gorgeous but sheds faux fur everywhere. Needs a lint roller nearby.,True,19,2024-11-01
+R057,SC030,Parul Bhatt,4,Cute bracelets,Adorable charm set. Great gift for friends. Some charms are a bit small.,True,15,2024-05-10
+R058,SC030,Madhuri Deshmukh,4,Nice gifting option,Bought as gifts. Everyone loved them. Good quality for the price.,True,12,2024-05-15
+R059,SC015,Geeta Narayan,3,Could be better,The fit is nice but material quality is subpar. Expected more for leather look.,True,20,2024-03-20
+R060,SC007,Vandana Iyer,4,Good for parties,Definitely a party dress. Not for everyday comfort but looks amazing.,True,16,2024-04-15
